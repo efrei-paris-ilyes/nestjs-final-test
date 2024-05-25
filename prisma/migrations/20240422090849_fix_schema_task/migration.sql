@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "Task" ALTER COLUMN "priority" SET DATA TYPE TEXT;
